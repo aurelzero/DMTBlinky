@@ -6,10 +6,17 @@
   ==================================================================
 -->
 
-## 11/6/2025 - Downloaded Kicad instead of EasyEDA  
+## 11/6/2025 7 PM - Downloaded Kicad instead of EasyEDA  
 
 I downloaded KiCad instead of EasyEDA because someone told me it was easier, I feel like I will regret this decision but I'll keep you guys updat!![Screenshot 2025-11-06 191403](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--9d6c2428cced31df222a6dfd518102beb123c836/Screenshot%202025-11-06%20191403.png)
 
 BTW sorry if my english is not very good it is not my primary language
+  
+
+## 11/6/2025 8 PM - Designed the Diagram and Making a DXF file to make the PCB  
+
+So I ditched KiCad and went back to online standard version of EasyEDA beacause I couldn't find the right components and the UI was different...
+I also had a little trouble making the diagram because it was my first time and the example diagram did not have the same symbols for the components and for me it lacked the VCC and GND labels.
+Anyway rn I'm making a DXF file to make the PCB cutout, wish me luck !![Screenshot 2025-11-06 200444](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--b716d9a793706ae474dc227f4de681c83fb63151/Screenshot%202025-11-06%20200444.png)
   
 
