@@ -32,6 +32,7 @@ But now I was finally ready to do the traces...
 Let's say I hope it works lmao![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--3f96224ca3201e0ed9123b3516281924c51268b8/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI0NywicHVyIjoiYmxvYl9pZCJ9fQ==--74a0854bc64640cac45202b4a00894bfe745a7e5/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--7e520611669a4e1f37fbd0ad463c7c8b94b1de21/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--d44ff3eee3edf8badcbf7e24ed0e4aa723b2a8fc/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--e4d157077c8f77dfc71596e87ed9c677474c25b2/image.png)
 
 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--a6f98eed9c4237daead4b66f958d6bf335c1e9ba/image.png)
 
 
   
