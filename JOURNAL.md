@@ -20,3 +20,19 @@ I also had a little trouble making the diagram because it was my first time and 
 Anyway rn I'm making a DXF file to make the PCB cutout, wish me luck !![Screenshot 2025-11-06 200444](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--b716d9a793706ae474dc227f4de681c83fb63151/Screenshot%202025-11-06%20200444.png)
   
 
+## 11/7/2025 - Made the PCB and Traces  
+
+I put a chronometer... 14 hours and a half later I finally finished the pcb and ill put you here every difficulty I had:
+
+First I spent a few hours on the pcb outline:
+You can't resize DXF.
+Wich means I had to figure out a way to be sure that it was the right size... but you can't see the size in EasyEDA, I then hopped between KiCad and EasyEDA multiple times and remade the entire project... 3 times.
+
+But now I was finally ready to do the traces...
+Let's say I hope it works lmao![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--3f96224ca3201e0ed9123b3516281924c51268b8/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI0NywicHVyIjoiYmxvYl9pZCJ9fQ==--74a0854bc64640cac45202b4a00894bfe745a7e5/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--7e520611669a4e1f37fbd0ad463c7c8b94b1de21/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--d44ff3eee3edf8badcbf7e24ed0e4aa723b2a8fc/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--e4d157077c8f77dfc71596e87ed9c677474c25b2/image.png)
+
+
+
+
+  
+
